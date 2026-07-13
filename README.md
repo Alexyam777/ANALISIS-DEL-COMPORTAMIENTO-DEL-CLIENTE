@@ -1,2 +1,3 @@
 # ANALISIS-DEL-COMPORTAMIENTO-DEL-CLIENTE
 Proyecto de analisis del comportamiento del cliente. se trabajo de forma transversal con python, sql,gamma y power bi
+Una empresa líder del sector minorista desea comprender mejor el comportamiento de compra de sus clientes para mejorar las ventas, la satisfacción del cliente y la fidelidad a largo plazo. El equipo directivo ha observado cambios en los patrones de compra según datos demográficos, categorías de productos y canales de venta (en línea frente a tiendas físicas). Les interesa especialmente descubrir qué factores —como descuentos, reseñas, estacionalidad o preferencias de pago— impulsan las decisiones de los consumidores y las compras recurrentes.
